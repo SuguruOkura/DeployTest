@@ -1,0 +1,11 @@
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\bin\Debug\net6.0\DeployLINE.Shared.deps.json
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\bin\Debug\net6.0\DeployLINE.Shared.dll
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\bin\Debug\net6.0\DeployLINE.Shared.pdb
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\DeployLINE.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\DeployLINE.Shared.AssemblyInfoInputs.cache
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\DeployLINE.Shared.AssemblyInfo.cs
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\DeployLINE.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\DeployLINE.Shared.dll
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\refint\DeployLINE.Shared.dll
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\DeployLINE.Shared.pdb
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\DeployLINE\Shared\obj\Debug\net6.0\ref\DeployLINE.Shared.dll
