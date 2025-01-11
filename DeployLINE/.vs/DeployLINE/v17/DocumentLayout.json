@@ -11,16 +11,8 @@
       "RelativeMoniker": "D:0:0:{9D7602C3-AB50-4218-8CDA-0EE1E0229BBD}|Api\\Api.csproj|solutionrelative:api\\tempdatafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D7602C3-AB50-4218-8CDA-0EE1E0229BBD}|Api\\Api.csproj|c:\\users\\sugur\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\deploytest\\deployline\\api\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7602C3-AB50-4218-8CDA-0EE1E0229BBD}|Api\\Api.csproj|solutionrelative:api\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EED4509-37F5-45C1-B3D0-ABC619D936F8}|Data\\Data.csproj|c:\\users\\sugur\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\deploytest\\deployline\\data\\tempdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EED4509-37F5-45C1-B3D0-ABC619D936F8}|Data\\Data.csproj|solutionrelative:data\\tempdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EED4509-37F5-45C1-B3D0-ABC619D936F8}|Data\\Data.csproj|c:\\users\\sugur\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\deploytest\\deployline\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EED4509-37F5-45C1-B3D0-ABC619D936F8}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D7602C3-AB50-4218-8CDA-0EE1E0229BBD}|Api\\Api.csproj|c:\\users\\sugur\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\deploytest\\deployline\\api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -44,7 +36,7 @@
               "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Client\\Pages\\Index.razor",
               "RelativeToolTip": "Client\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-11T06:21:36.126Z",
               "EditorCaption": ""
@@ -59,25 +51,11 @@
               "RelativeToolTip": "Api\\TempDataFunction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:18:43.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T06:18:43.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Api\\Function1.cs",
-              "RelativeDocumentMoniker": "Api\\Function1.cs",
-              "ToolTip": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Api\\Function1.cs",
-              "RelativeToolTip": "Api\\Function1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:05:29.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TempData.cs",
               "DocumentMoniker": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Data\\TempData.cs",
               "RelativeDocumentMoniker": "Data\\TempData.cs",
@@ -85,25 +63,11 @@
               "RelativeToolTip": "Data\\TempData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:13:39.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T06:13:39.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Data\\Class1.cs",
-              "RelativeToolTip": "Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T06:10:04.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\sugur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\DeployTest\\DeployLINE\\Api\\local.settings.json",
               "RelativeDocumentMoniker": "Api\\local.settings.json",
