@@ -1,0 +1,11 @@
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.sourcelink.json
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\sugur\OneDrive\デスクトップ\DeployTest\DeployLINE\Data\obj\Debug\netstandard2.0\Data.pdb
