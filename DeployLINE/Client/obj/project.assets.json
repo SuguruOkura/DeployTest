@@ -465,6 +465,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/System.Text.Json.targets": {}
         }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -930,6 +940,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/System.Text.Json.targets": {}
+        }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
         }
       }
     }
@@ -1732,10 +1752,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Data >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.36",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.36",
       "Microsoft.NET.ILLink.Analyzers >= 7.0.100-1.23211.1",
@@ -1775,7 +1801,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sugur\\OneDrive\\デスクトップ\\DeployTest\\DeployLINE\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\sugur\\OneDrive\\デスクトップ\\DeployTest\\DeployLINE\\Data\\Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
